@@ -4,6 +4,7 @@
 - Getting Started
 - Campaign 
 - Promotion 
+- Marketing(Comming Soon)
 
 ## Developer Guide
 - Android 
